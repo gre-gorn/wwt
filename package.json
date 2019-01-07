@@ -1,0 +1,17 @@
+{
+  "name": "wwt",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WWT API",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node api.js"
+  },
+  "author": "Grzegorz Gornisiewicz",
+  "license": "All rigths reserver Long Road Grzegorz Gornisiewicz",
+  "dependencies": {
+    "express": "^4.13.3",
+    "multer": "^1.1.0"
+  }
+}
